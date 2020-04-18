@@ -1,0 +1,3 @@
+Fungsi fopen() digunakan untuk membuka sebuah file.
+Fungsi fclose() digunakan untuk menutup sebuah file.
+Fungsi fgets() digunakan untuk membaca satu baris dari sebuah file. Fungsi ini digunakan bersamaan dengan fungsi fopen.
