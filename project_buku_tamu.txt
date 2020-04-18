@@ -1,0 +1,2 @@
+fungsi $_GET pada contoh source code berikut http://rakaadinugroho.blogspot.com/2013/06/source-code-guest-book-tanpa-database.html
+digunakan untuk mengambil nilai yang telah diinput oleh user, $_GET berisikan parameter atribut 'name' pada tag html input
